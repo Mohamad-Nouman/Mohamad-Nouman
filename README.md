@@ -79,17 +79,7 @@ This is my first Full Stack journey project — I am still improving and growing
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Mohamad-Nouman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
-    height="170"
-  />
-</p>
-
-
----
 
 <p align="center">
 🔥 “Consistency beats motivation.”  
