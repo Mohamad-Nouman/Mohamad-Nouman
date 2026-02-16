@@ -1,69 +1,98 @@
-<h1>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  أهلاً 👋 أنا محمد نعمان
-</h1>
+## Hey 👋, I'm Mohammed Nouman!
 
-<p>
-مرحباً بكم في صفحتي على GitHub! <br/>
-أنا <b>Mohammed Nouman</b> — مطور ويب (Frontend Developer) وأسعى لأصبح <b>Full Stack Developer</b> 💻🔥 <br/>
-أحب بناء تطبيقات عملية وقابلة للتطوير باستخدام أحدث التقنيات.
-</p>
 
----
 
-<h3>🚀 التقنيات التي أعمل بها</h3>
-
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
-
----
-
-<h3>📂 مشاريعي</h3>
-
-<ul>
-<li><b>🧑‍💼 Employee Management System</b><br/>
-نظام لإدارة الموظفين يشمل الرواتب، الإجازات، ورؤساء الأقسام باستخدام MERN Stack.</li>
-
-<li><b>📊 Admin Dashboard</b><br/>
-لوحة تحكم احترافية لإدارة البيانات وعرض الإحصائيات.</li>
-
-<li><b>🌐 REST API Projects</b><br/>
-بناء APIs باستخدام Node.js و Express مع MongoDB.</li>
-</ul>
-
----
-
-<h3>📈 إحصائياتي على GitHub</h3>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-<h3>📫 تواصل معي</h3>
-
-<p>
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
-<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+<a href='https://github.com/Mohamad-Nouman/' target="_blank">
+  <img align='left' alt="github" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height='22px'/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINK" target="_blank">
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href='mailto:mohamad0992846356@gmail.com'>
+  <img align='left' alt="gmail" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height='22px'/>
 </a>
+
+<a href='https://t.me/@Mo4583' target="_blank">
+  <img align='left' alt="telegram" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" height='22px'/>
+</a>
+
+<a href='https://instagram.com/mohamad.nouman' target="_blank">
+  <img align='left' alt="instagram" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height='22px'/>
+</a>
+
+<br/>
+<br/>
+I am a passionate **Frontend Developer 💻** on my journey to becoming a **Full Stack Developer 🚀**.  
+I build scalable and real-world web applications using the **MERN Stack** and continuously improve my backend & problem-solving skills.
+
+<br/>
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350px"/>
+
+---
+
+### 🧐 More About Me:
+
+- 🌱 Currently improving my **Backend & API Development**
+- 💡 Love solving programming challenges in **C++**
+- 📚 Learning advanced **JavaScript & Clean Code practices**
+- 🔥 Building full-stack applications with authentication & dashboards
+- 🎯 Goal: Become a Professional Full Stack Developer
+- 📫 Reach me on LinkedIn or Email
+
+<br>
+
+---
+
+### 🔨 Languages and Tools:
+
+<a href="#"><img align="left" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+<a href="#"><img align="left" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+<a href="#"><img align="left" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a>
+<a href="#"><img align="left" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+<a href="#"><img align="left" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>
+<a href="#"><img align="left" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></a>
+<a href="#"><img align="left" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></a>
+<a href="#"><img align="left" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
+<a href="#"><img align="left" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a>
+
+<br/>
+<br/>
+
+---
+
+### 🛠️ Featured Projects
+
+This is my first Full Stack journey project — I am still improving and growing 🚀
+
+- 🧑‍💼 **Employee Management System** – MERN Stack project with roles & salary management  
+- 📊 **Admin Dashboard** – Dashboard with charts & data control  
+- 🔐 **Authentication System** – Secure login/register using JWT  
+- 🌐 RESTful APIs built with Node.js & Express  
+
+---
+
+## 🛠 Tools I Use
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
-🔥 دائماً أتعلم وأطور نفسي — هدفي أن أصبح Full Stack Developer محترف
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Mohamad-Nouman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
+    height="170"
+  />
+</p>
+
+
+---
+
+<p align="center">
+🔥 “Consistency beats motivation.”  
+<br/>
+Always learning. Always building.
 </p>
